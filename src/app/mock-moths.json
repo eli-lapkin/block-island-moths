@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Common Clothes Moth"
+    },
+    {
+        "id": 2,
+        "name": "Luna Moth"
+    },
+    {
+        "id": 3,
+        "name": "Peppered Moth"
+    },
+    {
+        "id": 4,
+        "name": "Silkworm"
+    },
+    {
+        "id": 5,
+        "name": "Indianmeal Moth"
+    },
+    {
+        "id": 6,
+        "name": "Atlas Moth"
+    },
+    {
+        "id": 7,
+        "name": "Gypsy Moth"
+    },
+    {
+        "id": 8,
+        "name": "Creatonotos Gangis"
+    },
+    {
+        "id": 9,
+        "name": "Polyphemus Moth"
+    },
+    {
+        "id": 10,
+        "name": "Garden Tiger Moth"
+    }
+]

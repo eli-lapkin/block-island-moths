@@ -1,0 +1,51 @@
+{
+    "moths": [
+      {
+        "Nepticulidae": {
+            "Ectoedemia": [
+                "rubifoliella"
+            ],
+            "Stigmella": [
+                "prunifoliella", "rhoifoliella"
+            ]
+        }
+      },
+      {
+        "id": "2",
+        "firstName": "Olivia",
+        "lastName": "Parker",
+        "occupation": "Teacher",
+        "reviewCount": "11",
+        "reviewScore": "5"
+      }
+    ]
+  }
+
+families
+    family
+        genus
+            species
+                numbers
+            species
+            species
+        genus
+            species
+            species
+    family
+        genus
+            species
+            species
+            species
+        genus
+            species
+            species
+
+{
+    "moths": [
+        {
+            "family": "Nepticulidae",
+            "genus": "Ectoedemia",
+            "species": "rubifoliella"
+        }
+    ]
+}

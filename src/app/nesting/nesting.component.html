@@ -1,0 +1,7 @@
+<ul *ngIf="item | async as i">
+    <li *ngIf="i.children">
+        <span class="badge badge-primary badge-pill">{{i.hodges}}</span> {{i.name}}
+        <app-nesting *ngFor="let child of i.children" [itemName]="child">
+        </app-nesting>
+    </li>
+</ul>
