@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Screenshot of website
+
+Here is an example of what selecting a moth species displays.
+
+<img width="989" alt="Screenshot" src="https://user-images.githubusercontent.com/18246881/185707937-83d8ffff-c5fc-4020-85d8-d5a479e18eb8.png">
+
